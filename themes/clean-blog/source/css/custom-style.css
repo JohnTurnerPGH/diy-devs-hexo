@@ -28,6 +28,7 @@ body,
 
 .post-heading > h1 {
   color: var(--light-blue);
+  font-weight: 700;
 }
 
 .navbar > .container .navbar-brand,
