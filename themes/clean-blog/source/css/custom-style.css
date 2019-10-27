@@ -13,7 +13,7 @@ body,
 
 .intro-header {
   background-color: var(--dark-blue);
-  /* background-image: none; */
+  margin-bottom: 20px;
 }
 
 .intro-header .post-heading {
