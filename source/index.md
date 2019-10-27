@@ -10,7 +10,7 @@ You can learn more about me [on my about page](/about/)
 
 Here is where I'll list out my articles
 
-- First article
+- [The Most Direct Way to Learn JavaScript (for free)](/learn-javascript/)
 - Second article
 - Third article
 
