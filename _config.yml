@@ -98,3 +98,18 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# hexo-yam Settings
+minify:
+  html:
+    enable: true
+  css:
+    enable: true
+  js:
+    enable: true
+  svg:
+    enable: false
+  gzip:
+    enable: false
+  brotli:
+    enable: false
