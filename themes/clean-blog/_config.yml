@@ -1,15 +1,10 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
-    icon: github
+  About: /about/
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: DIY Devs
 
 # URL of the Home page image
 index_cover: /img/home-bg.jpg
@@ -37,10 +32,10 @@ addthis:
 favicon: /img/icons/icon-192x192.png
 
 # Social Accounts
-twitter_url:
+twitter_url: https://twitter.com/JohnTurnerPGH
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/JohnTurnerPGH
 gitlab_url:
 linkedin_url:
 mailto:
