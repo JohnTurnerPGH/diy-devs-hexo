@@ -9,12 +9,8 @@ body {
   /* color: #20252d; */
 }
 
-/* change Lola font to Open Sans */
-
-.serif,
-body,
-.intro-header .post-heading .meta {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+li {
+  margin-bottom: 5px;
 }
 
 .intro-header {
@@ -62,4 +58,12 @@ body,
 
 .navbar-default {
   border-color: var(--dark-blue);
+}
+
+/* change Lola font to Open Sans */
+
+.serif,
+body,
+.intro-header .post-heading .meta {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
