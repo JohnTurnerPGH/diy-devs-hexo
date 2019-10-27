@@ -12,7 +12,7 @@ Quick test of adding code below
 
 <pre><code class="language-js">let exampeVar = 'how does this look?';
 
-let anotherExample = 'still looking good?';
+let anotherExample = 'here is a very long string to test to see how the whole word wrap stuff adjusts to different size windows';
 
 function fancyFeast(num) {
   return num * 5;

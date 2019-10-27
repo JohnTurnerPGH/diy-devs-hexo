@@ -71,10 +71,12 @@ body,
 /* changes to inline code styling */
 
 code {
-  white-space: pre-wrap;
   background-color: rgba(0, 0, 0, 0.09);
   color: #333;
   border-radius: 0;
   padding: 2px 4px;
   font-size: 90%;
+
+  /* need the important addition below to prevent horizontal scrolling in code examples */
+  white-space: pre-wrap !important;
 }
