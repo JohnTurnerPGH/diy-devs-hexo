@@ -3,6 +3,12 @@
   --light-blue: #a9c7df;
 }
 
+body {
+  background-color: #f5f5f5;
+  word-break: break-word;
+  /* color: #20252d; */
+}
+
 /* change Lola font to Open Sans */
 
 .serif,
