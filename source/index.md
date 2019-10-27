@@ -1,9 +1,15 @@
 ---
-title: index
+title: 'DIY Devs: Learning to program with John Turner'
 date: 2019-10-26 12:09:47
-cover: img/home-bg.jpg
+cover:
 ---
 
-Here is my custom home page.
+Here is a brief introduction to who I am and what I'm hoping to achieve with this site.
 
-If this displays at the root subdomain level, then I took care of this setup correctly! :)
+Here is where I'll list out my articles
+
+- First article
+- Second article
+- Third article
+
+A suggestion to check back for more articles, or follow me on Twitter to see updates.
