@@ -3,6 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <!-- Working canonical tag -->
+  <link
+    rel="canonical"
+    href="<%= config.url %><%- url_for(page.path).replace(/index\.html$/, '') %>"
+  />
+
   <!-- TEMP no index tag (for all pages on site) -->
   <meta name="robots" content="noindex, nofollow" />
 
