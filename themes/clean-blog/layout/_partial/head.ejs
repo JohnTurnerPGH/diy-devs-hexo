@@ -12,6 +12,11 @@
   <!-- TEMP no index tag (for all pages on site) -->
   <meta name="robots" content="noindex, nofollow" />
 
+  <!-- meta noindex tag -->
+  <% if (page.metaNoIndex === true || page.archive) { %>
+  <meta name="robots" content="noindex, nofollow" />
+  <% } %>
+
   <!--Description-->
 
   <% var description = ''; if (page.description) { description =
