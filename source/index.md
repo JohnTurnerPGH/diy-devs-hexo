@@ -1,5 +1,5 @@
 ---
-title: 'DIY Devs: Learning to program with John Turner'
+title: Learning to program with John Turner
 date: 2019-10-26 12:09:47
 cover:
 ---

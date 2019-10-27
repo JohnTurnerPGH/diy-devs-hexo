@@ -41,3 +41,20 @@ body,
   font-weight: normal;
   font-size: 1.5rem;
 }
+
+/* Hide small screen hamburger menu */
+
+.navbar-toggle {
+  display: none;
+}
+
+.container-fluid > .navbar-collapse,
+.container-fluid > .navbar-header,
+.container > .navbar-collapse,
+.container > .navbar-header {
+  background-color: var(--dark-blue);
+}
+
+.navbar-default {
+  border-color: var(--dark-blue);
+}
