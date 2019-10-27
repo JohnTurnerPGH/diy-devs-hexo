@@ -67,3 +67,14 @@ body,
 .intro-header .post-heading .meta {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+/* changes to inline code styling */
+
+code {
+  white-space: pre-wrap;
+  background-color: rgba(0, 0, 0, 0.09);
+  color: #333;
+  border-radius: 0;
+  padding: 2px 4px;
+  font-size: 90%;
+}

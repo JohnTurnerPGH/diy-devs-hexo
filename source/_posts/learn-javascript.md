@@ -5,3 +5,20 @@ tags:
 ---
 
 Learn JavaScript, huzzah!!!
+
+How does the <code>inline code</code> look on here?
+
+Quick test of adding code below
+
+<pre><code class="language-js">let exampeVar = 'how does this look?';
+
+let anotherExample = 'still looking good?';
+
+function fancyFeast(num) {
+  return num * 5;
+}
+
+console.log(fancyFeast(12));
+</code></pre>
+
+Think this is all going okay after all! :)
