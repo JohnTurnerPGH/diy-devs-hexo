@@ -6,6 +6,8 @@ cover:
 
 **Here is a brief introduction to who I am and what I'm hoping to achieve with this site.**
 
+You can learn more about me [on my about page](/about/)
+
 Here is where I'll list out my articles
 
 - First article
