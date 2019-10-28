@@ -2,6 +2,7 @@
 title: The Most Direct Way to Learn JavaScript (for free)
 date: 2019-10-26 22:06:33
 tags:
+description: Want to learn JavaScript? Here is a simple, direct way to learn it, without having to spend any money.
 ---
 
 Learn JavaScript, huzzah!!!
