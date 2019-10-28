@@ -14,7 +14,8 @@ li {
 }
 
 article a {
-  color: #337ab7;
+  /* color: #337ab7; */
+  color: #f6491a;
 }
 
 .intro-header {
