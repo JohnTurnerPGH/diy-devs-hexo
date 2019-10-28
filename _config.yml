@@ -99,6 +99,10 @@ theme: clean-blog
 deploy:
   type:
 
+# Include redirects file
+include:
+  - _redirects
+
 # hexo-yam Settings
 minify:
   html:
