@@ -88,5 +88,6 @@ typings/
 .dynamodb/
 
 # extra
-*.DS_Store
+.DS_Store
 *.acorn
+yarn.lock
