@@ -5,3 +5,4 @@ https://diy-devs-hexo.netlify.com/* https://diydevs.com/:splat 301!
 
 # These extra rules are required because HTTPS is not forced
 http://diy-devs-hexo.netlify.com/* https://diydevs.com/:splat 301!
+http://diydevs.com/* https://diydevs.com/:splat 301!
