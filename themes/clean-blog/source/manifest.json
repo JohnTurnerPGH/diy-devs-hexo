@@ -3,7 +3,7 @@
   "short_name": "DIY Devs",
   "theme_color": "#a9c7df",
   "background_color": "#1c2532",
-  "display": "browser",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "lang": "en-US",
