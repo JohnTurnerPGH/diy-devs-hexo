@@ -117,3 +117,12 @@ minify:
     enable: false
   brotli:
     enable: false
+
+# hexo-generator-feed Settings
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 10
+  content: false
+  content_limit: 280
+  order_by: -date

@@ -14,4 +14,4 @@ Here is where I'll list out my articles
 - [The Most Direct Way to Learn JavaScript (for free)](/learn-javascript/)
 - _No Budget Coding Bootcamp (coming soon)_
 
-A suggestion to check back for more articles, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to see updates.
+A suggestion to check back for more articles, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to see updates. Link to [RSS feed](/rss2.xml)
