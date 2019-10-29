@@ -3,6 +3,8 @@ title: About John
 date: 2019-10-26 20:00:13
 ---
 
+**Here is where I'll eventually put stuff about myself, but in the meantime enjoy this Bob Ross Lorem Ipsum!**
+
 We'll make some big ol' huge mountains! There's too many complicated things in our life already. All you're worried about is this nice outside shape. Always follow the angles. Don't just cover it all up -- leave these spots!
 
 Everybody should have a friend. Just sorta make these things up in your mind, and let them drop in. Help them make a happy buck or two. Sort of an orangy-yellowish color. Water breaks, and it churns, and it has fun!
