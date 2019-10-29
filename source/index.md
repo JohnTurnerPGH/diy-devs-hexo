@@ -1,5 +1,5 @@
 ---
-title: Learning to program with John Turner
+title: Helpful Guides for Learning How to Program
 date: 2019-10-26 12:09:47
 description: A short summary of this page
 cover:
