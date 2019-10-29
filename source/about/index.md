@@ -1,5 +1,5 @@
 ---
-title: About John
+title: About DIY Devs and John Turner
 date: 2019-10-26 20:00:13
 ---
 
