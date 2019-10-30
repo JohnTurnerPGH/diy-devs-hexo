@@ -1,18 +1,20 @@
-/* Dark Mode notes (to use later if I change my mind on the overall color scheme)
+/*
+Dark Mode notes (to use later if I change my mind on the overall color scheme)
 
 top header bg color: #202020
 top header text color: same
 body color: #b3b9c5
 body background color: #202020
- */
+*/
 
 :root {
   --dark-blue: #1c2532;
   --light-blue: #a9c7df;
+  --body-background-color: #f5f5f5;
 }
 
 body {
-  background-color: #f5f5f5;
+  background-color: var(--body-background-color);
   word-break: break-word;
   /* color: #20252d; */
 }
@@ -24,6 +26,10 @@ li {
 article a {
   /* color: #337ab7; */
   color: #f6491a;
+}
+
+article a:hover {
+  color: #ac3312;
 }
 
 .intro-header {
@@ -45,6 +51,22 @@ article a {
   color: var(--light-blue);
   font-weight: normal;
   font-size: 2.2rem;
+}
+
+.navbar > .container-fluid .navbar-brand:hover {
+  color: var(--body-background-color);
+}
+
+footer span {
+  color: var(--dark-blue);
+}
+
+footer span .fa-inverse {
+  color: var(--light-blue);
+}
+
+footer span .fa-inverse:hover {
+  color: var(--body-background-color);
 }
 
 /* section below for styling nav menu */
