@@ -1,5 +1,5 @@
 {
-  "name": "DIY Devs: Learn to code (for free)",
+  "name": "DIY Devs",
   "short_name": "DIY Devs",
   "theme_color": "#a9c7df",
   "background_color": "#1c2532",
@@ -7,7 +7,7 @@
   "scope": "/",
   "start_url": "/",
   "lang": "en-US",
-  "description": "A blog about web dev stuff",
+  "description": "Helpful guides for learning how to code",
   "dir": "ltr",
   "icons": [
     {
