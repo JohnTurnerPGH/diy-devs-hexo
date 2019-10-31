@@ -17,3 +17,24 @@ Here is a list of the guides I've written so far:
 Please check back in the future for more guides, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to receive updates.
 
 You can also subscribe to the [RSS feed](/rss2.xml), or use a service like [Blogtrottr](https://blogtrottr.com/) to get RSS updates delivered to you via email.
+
+<!-- OLD CODE BELOW!!! -->
+
+<!-- Learn JavaScript, huzzah!!!
+
+How does the <code>inline code</code> look on here?
+
+Quick test of adding code below
+
+<pre><code class="language-js">let exampeVar = 'how does this look?';
+
+let anotherExample = 'here is a very long string to test to see how the whole word wrap stuff adjusts to different size windows';
+
+function fancyFeast(num) {
+  return num * 5;
+}
+
+console.log(fancyFeast(12));
+</code></pre>
+
+Think this is all going okay after all! :) -->
