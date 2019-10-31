@@ -12,9 +12,7 @@ Here is a list of the guides I've written so far:
 - [The Most Direct Way to Learn JavaScript (for free)](/learn-javascript/)
 - _No Budget Coding Bootcamp (coming soon)_
 
-You can learn more about me on my about page (coming soon).
-
-<!-- [my about page](/about/) -->
+<!-- You can learn more about me on [my about page](/about/). -->
 
 Please check back in the future for more guides, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to receive updates.
 
