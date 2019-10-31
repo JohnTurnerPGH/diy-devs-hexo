@@ -5,12 +5,12 @@ description: A short summary of this page
 cover:
 ---
 
-**Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer.**
+_Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer._
 
 Here is a list of the guides I've written so far:
 
 - [The Most Direct Way to Learn JavaScript (for free)](/learn-javascript/)
-- _No Budget Coding Bootcamp (coming soon)_
+- ~~No Budget Coding Bootcamp~~ (coming soon)
 
 <!-- You can learn more about me on [my about page](/about/). -->
 
