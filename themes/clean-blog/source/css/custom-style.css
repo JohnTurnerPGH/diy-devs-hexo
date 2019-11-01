@@ -28,7 +28,8 @@ article a {
   color: #f6491a;
 }
 
-article a:hover {
+article a:hover,
+article a:focus {
   color: #ac3312;
 }
 
