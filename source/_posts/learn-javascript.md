@@ -46,11 +46,11 @@ All you have to do on your first day of learning JavaScript is read thru these t
 
 You don't have to read them all in one sitting, but you need to read them all over the course of a day.
 
-If you're already familiar with other programming languages, you'll probably pick up a lot from these three articles right away.
-
-If you're new to coding it might feel a little overwhelming. Don't worry, that's normal. Even if you feel you're not getting everything in the articles, keep reading. These three posts will be helpful not only in getting started, but later on will serve as markers to help you realize how far you've come.
-
 (if you prefer video, I'd suggest checking out the excellent [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c), which is under 2 hours long)
+
+Already familiar with other programming languages? Then you'll probably pick up a lot from these three articles right away.
+
+New to coding? Then it might feel a little overwhelming. Don't worry, that's normal. Even if you feel you're not getting everything in the articles, keep reading. These three posts will be helpful not only in getting started, but later on will serve as markers to help you realize how far you've come.
 
 ## Step 2: The textbook to use - [javascript.info](https://javascript.info/)
 
