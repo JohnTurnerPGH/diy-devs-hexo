@@ -14,9 +14,13 @@ Here is a list of the guides I've written so far:
 
 <!-- You can learn more about me on [my about page](/about/). -->
 
-Please check back in the future for more guides, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to receive updates.
+Subscribe to the <a href="/rss2.xml" target="_blank">RSS feed</a>, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH), to find out when I release new guides and resources.
 
-You can also subscribe to the [RSS feed](/rss2.xml), or use a service like [Blogtrottr](https://blogtrottr.com/) to get RSS updates delivered to you via email.
+<!-- (you can use a service like [Blogtrottr](https://blogtrottr.com/) to get RSS updates delivered to you via email) -->
+
+<!-- Please check back in the future for more guides, or [follow me on Twitter](https://twitter.com/JohnTurnerPGH) to receive updates.
+
+You can also subscribe to the [RSS feed](/rss2.xml), or use a service like [Blogtrottr](https://blogtrottr.com/) to get RSS updates delivered to you via email. -->
 
 <!-- OLD CODE BELOW!!! -->
 
