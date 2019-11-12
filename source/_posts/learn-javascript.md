@@ -36,22 +36,23 @@ There are a lot of online resources for learning JavaScript, the only problem be
 
 This is the guide I wish I had when I was first learning to code, and I hope it saves you a lot of frustration and time!
 
-## Step 1: Crash courses (2 links below)
+## Step 1: Crash course ([MDN crash course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript))
 
-All you have to do on your first day of learning JavaScript is read thru these two resources, in the following order:
+All you have to do on your first day of learning JavaScript is read thru this:
 
 <!-- - [javascript-crash-course.md](https://gist.github.com/not-an-aardvark/cb9dbfba750e9a28cb78447491a1d079) (5 minute read) -->
 
-- [Learn these JavaScript fundamentals and become a better developer](https://www.freecodecamp.org/news/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf/) (10 minute read)
+<!-- - [Learn these JavaScript fundamentals and become a better developer](https://www.freecodecamp.org/news/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf/) (10 minute read) -->
+
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (30 minute read)
 
-You don't have to read them both in one sitting, but you need to read them both over the course of a day.
+(if you prefer video, I'd suggest also checking out the excellent [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c), which is under 2 hours long)
 
-(if you prefer video, I'd suggest checking out the excellent [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c), which is under 2 hours long)
+Already familiar with other programming languages? Then you'll probably pick up a lot right away.
 
-Already familiar with other programming languages? Then you'll probably pick up a lot from these articles right away.
+New to coding? Then it might feel a little overwhelming. Don't worry, that's normal. Even if you feel you're not getting everything, keep reading. This will be helpful not only in getting started, but later on will serve as markers to help you realize how far you've come.
 
-New to coding? Then it might feel a little overwhelming. Don't worry, that's normal. Even if you feel you're not getting everything in the articles, keep reading. These posts will be helpful not only in getting started, but later on will serve as markers to help you realize how far you've come.
+Everyday after this will combine step 2 and 3 together.
 
 ## Step 2: The textbook to use - [javascript.info](https://javascript.info/)
 
