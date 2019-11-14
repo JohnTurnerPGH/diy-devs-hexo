@@ -9,7 +9,7 @@ _Hi there, I'm John, and I've put together a number of guides and posts to help 
 
 Here is a list of the guides I've written so far:
 
-- [The Most Direct Way to Learn JavaScript (for free)](/learn-javascript/)
+- [Learn JavaScript for Free](/learn-javascript/)
 - ~~No Budget Coding Bootcamp~~ (coming very soon)
 
 <!-- You can learn more about me on [my about page](/about/). -->

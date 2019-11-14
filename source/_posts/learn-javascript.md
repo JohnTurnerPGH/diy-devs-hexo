@@ -1,5 +1,5 @@
 ---
-title: The Most Direct Way to Learn JavaScript (for free)
+title: Learn JavaScript for Free
 date: 2019-11-10 22:06:33
 tags:
 comment: false
