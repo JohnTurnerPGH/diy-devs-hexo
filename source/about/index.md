@@ -1,6 +1,7 @@
 ---
 title: About DIY Devs and John Turner
 date: 2019-10-26 20:00:13
+metaNoIndex: true
 ---
 
 **Here is where I'll eventually put stuff about myself, but in the meantime enjoy this Bob Ross Lorem Ipsum!**
