@@ -121,7 +121,7 @@ And the funny thing about habits like this is that once you build a small habit,
 
 Here are a few helpful tips that will go a long way in aiding you on this path.
 
-### Stick to the plan
+### A: Stick to the plan
 
 This might sound obvious, since I just spent this entire article outlining a plan that will help you learn JavaScript, but it's so easy to get distracted.
 
@@ -131,7 +131,7 @@ That's not to say that this plan is all you'll ever need. In fact, I can guarant
 
 But start here, stick to it, and keep moving forward
 
-### Repeat anything as needed
+### B: Repeat anything as needed
 
 There are going to be points in learning where you come across a concept, read the material, do practice problems, and still feel like you don't "get it."
 
@@ -151,7 +151,7 @@ This never leads to any real bragging rights, but to be honest I think most peop
 
 I'm here to give you permission to reread that section, or go over that practice problem, again and again until you feel you understand it!
 
-### Commit to learning in public
+### C: Commit to learning in public
 
 A little bit of outside pressure can go a long way in helping you stick to your goals.
 
@@ -175,7 +175,7 @@ Then tweet about what you accomplished each day.
 
 Be sure to check out the official [100 days of code Twitter account](https://twitter.com/_100DaysOfCode) to see how others are using this approach to stick with learning to code.
 
-### Alter this plan if you have a different approach
+### D: Alter this plan if you have a different approach
 
 I want to give you the best starting point possible to learn JavaScript, but that doesn't mean that my approach is the best one for you.
 
@@ -195,7 +195,7 @@ With just the simple approach of using a crash course at the beginning (and goin
 
 But I wouldn't say this is complete.
 
-There's a third part, which is working on projects.
+_There's a third part, which is working on projects._
 
 Building things, even if fairly simple, will help you solidify not only your JavaScript fundamentals, but it could also be argued that in building projects, you'll understand more deeply how all the JavaScript pieces fit together.
 
@@ -231,11 +231,9 @@ What I've outlined here is for everyone who wants to learn JavaScript. No except
 
 There seems to be less and less gatekeeping around this as time goes on, but there are still plenty of folks who treat learning tech as something that only certain people can learn, or worse yet, only people who fit certain demographics are capable of learning.
 
-Let me be clear. People who believe this, repeat this, or say this, are one of two things:
+Let me be clear. People who believe this, repeat this, or say this, are one of two things: stupid or lying.
 
-Stupid or lying.
-
-That's it.
+That's all there is to it.
 
 They might buy into dangerous stereotypes, or maybe they're just lying to themselves, but everything outlined here is learnable by anyone who wants to put the time and effort in.
 
@@ -247,12 +245,17 @@ Just need to put the work in to learning it.
 
 This article should give you the straightforward plan you need to get started.
 
-In the simplest terms:
+**In the simplest terms:**
 
 - Read the [MDN crash course doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and/or watch the [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - Then for every section you read of [javascript.info](https://javascript.info/)
 - Do three challenges on [Edabit](https://edabit.com/challenges/javascript)
-- Repeat all of these until you feel solid on the language, then do projects
+- Repeat all of this until you feel solid on the language
+
+Then after that:
+
+- Learn HTML and CSS from [Interneting Is Hard](https://internetingishard.com/html-and-css/)
+- Work on projects from [JavaScript 30](https://javascript30.com)
 
 That's all there is to it, so get to work!
 
