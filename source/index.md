@@ -5,9 +5,9 @@ description: A short summary of this page
 cover:
 ---
 
-_Hi there, I'm [John](https://twitter.com/JohnTurnerPGH), and I've put together a number of guides and posts to help you learn how to code and become a developer._
+_Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer._
 
-Here is a list of the guides I've written so far:
+Here is the list of guides I've written so far:
 
 - [The Best Way to Learn JavaScript for Free](/learn-javascript/)
 - ~~No Budget Coding Bootcamp~~ (coming soon)
