@@ -77,7 +77,7 @@
   (page.archive) { if (page.year) title.push(__('archive_b', page.year +
   (page.month ? '/' + page.month : ''))); else title.push(__('archive_a')); }
   title.push(config.title); %>
-  <title><%= title.join(' - ') %></title>
+  <title><%= page.customTitleTag || title.join(' - ') %></title>
 
   <!-- Bootstrap Core CSS -->
   <link href="/css/bootstrap.min.css" rel="stylesheet" />

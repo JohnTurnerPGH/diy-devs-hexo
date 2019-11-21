@@ -1,7 +1,8 @@
 ---
-title: Helpful Guides for Learning How to Code
+title: 'DIY Devs: Helpful Guides for Learning How to Code'
+customTitleTag: 'DIY Devs: Helpful Guides for Learning How to Code'
 date: 2019-10-26 12:09:47
-description: A short summary of this page
+description: Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer.
 cover:
 ---
 
