@@ -10,7 +10,7 @@ _Hi there, I'm John, and I've put together a number of guides and posts to help 
 Here is the list of guides I've written so far:
 
 - [The Best Way to Learn JavaScript for Free](/learn-javascript/)
-- ~~No Budget Coding Bootcamp~~ (coming very soon)
+- ~~No Budget Coding Bootcamp~~ (coming soon)
 
 <!-- You can learn more about me on [my about page](/about/). -->
 
