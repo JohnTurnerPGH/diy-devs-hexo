@@ -3,7 +3,7 @@ title: 'DIY Devs: Helpful Guides for Learning How to Code'
 customTitleTag: 'DIY Devs: Helpful Guides for Learning How to Code'
 date: 2019-10-26 12:09:47
 description: Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer.
-share_cover: /img/share-img/main-page-cover-image.jpg
+share_cover: /img/share-img/main-page-cover-image-full.jpg
 ---
 
 _Hi there, I'm John, and I've put together a number of guides and posts to help you learn how to code and become a developer._
