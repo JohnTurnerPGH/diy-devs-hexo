@@ -154,7 +154,7 @@ But there's a simple solution to this issue: go over the material again and agai
 
 It won't matter in the grand scheme of things if it takes you two times, five times, or 20 times of rereading a section in javascript.info to understand it. What matters most is sticking with it, reviewing content until you understand it.
 
-It never feels like something you can brag about, but to be honest I think most people struggle more with learning than they might admit, and the few how do learn things the first time, every time, are the exceptions, not the rule.
+It never feels like something you can brag about, but to be honest I think most people struggle more with learning than they might admit, and the few who do learn things the first time, every time, are the exceptions, not the rule.
 
 So I'm here to give you permission to reread that section, or go over that practice problem, again and again until you get it!
 
