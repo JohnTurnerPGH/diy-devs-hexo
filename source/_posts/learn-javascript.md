@@ -1,44 +1,49 @@
 ---
 title: The Best Way to Learn JavaScript for Free
-date: 2019-11-10 22:06:33
+date: 2019-11-24 22:06:33
 tags:
 comment: false
 description: Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money.
+share_cover: /img/share-img/learn-javascript-cover-image-full.jpg
 ---
 
-_Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money. (x min read)_
+_Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money. (15 minute read)_
 
-**Who this is for:** Anyone new to coding who wants to learn JavaScript, folks who already know how to code but want to learn JavaScript, and people who want to learn how to program, but don't know where to start.
+**Who this is for:** Anyone new to coding who wants to learn JavaScript, those who already know programming and want to learn JavaScript, and people who want to learn to code but don't know where to start.
 
 **What you need:** Any device that can access a webpage
 
 **Ideal to have:** A device with a large screen (tablet) or a device with a physical keyboard (laptop, desktop, Chromebook)
 
-There are lots of challenges for anyone looking to learn to code, but learning your first programming language is often the most worrying of all the things you'll need to learn.
+## Introduction
 
-Beyond picking the first language to start learning, this is also the area that often feels like it has the steepest learning curve to it, even if you already feel like you're fairly tech savvy.
+Learning your first programming language is often a very difficult task for anyone looking to become a developer.
 
-**Which language should you learn first?**
+Beyond the vexing problem of which language to learn first, this is an area that often feels like it has the steepest learning curve, even if you already feel fairly tech savvy.
+
+So the initial question is which language should you learn first?
 
 I'd say start with JavaScript.
 
 Reasons to start with JavaScript:
 
-- If you need to build anything for the web, you'll have to use JavaScript to some extent
-- As the web has grown, so have the use cases for JavaScript, so you can use your JavaScript skills in lots of different ways
-- Because it's built into every web browser, you can play around with it without any setup
+- If you plan to build anything for the web, you'll need to know JavaScript
+- You can now use JavaScript for things beyond building web pages and apps
+- Since JavaScript is built into every browser, you can get started learning JS on any type of device
 
-That last point is probably the most important, because while there are lots of other languages that are often recommended for beginners (Python being one of the most recommended for beginners), not needing to set anything up is a big plus, especially if you're learning on a device that limits what you can install, such as a smart phone or tablet.
+That last point might be the most important of all. Other languages, such as Python, are often treated as more beginner friendly, but they require devices where you can install and run custom software and tools.
 
-But where to start?
+But if you only have a smartphone, that might not be an option.
 
-There are a lot of online resources for learning JavaScript, the only problem being that many of these resources are out of date, incomplete, or contain errors. And too many folks that put together guides go with the approach of "here are a dozen sites, figure it out" which is overwhelming if you're just starting.
+Since you can play with JavaScript on any device, it's much more accessible to folks who might not want to buy a more expensive machine to learn coding, or who might not be able to afford such a machine at all.
 
-This is the guide I wish I had when I was first learning to code, and I hope it saves you a lot of frustration and time!
+But even if you can afford a more expensive computer, I'd still say start here, both with JavaScript and this plan.
+
+This is the most direct way I've found to learn JavaScript, and is the guide I wish I had when I was first learning to code
 
 ## Step 1: Crash course ([MDN crash course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript))
 
-All you have to do on your first day of learning JavaScript is read thru this:
+To start, read thru this crash course on JavaScript:
 
 <!-- - [javascript-crash-course.md](https://gist.github.com/not-an-aardvark/cb9dbfba750e9a28cb78447491a1d079) (5 minute read) -->
 
@@ -46,49 +51,55 @@ All you have to do on your first day of learning JavaScript is read thru this:
 
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (30 minute read)
 
-(if you prefer video, I'd suggest also checking out the excellent [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c), which is under 2 hours long)
+(I'd suggest also checking out the excellent [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c), which is around 2 hours long, but I recommend the other resource first because I know not everyone has fast enough internet or large enough screens to watch this video)
 
-Already familiar with other programming languages? Then you'll probably pick up a lot right away.
+Already know how to program in another language? Then you'll learn a lot from this right away.
 
-New to coding? Then it might feel a little overwhelming. Don't worry, that's normal. Even if you feel you're not getting everything, keep reading. This will be helpful not only in getting started, but later on will serve as markers to help you realize how far you've come.
+Fully new to programming languages? Then it will feel a little overwhelming, which is normal. The idea here isn't to learn every concept right away, but to gain a little bit of exposure to the new concepts, before you go more in depth into them.
+
+Later on, as you learn more JavaScript, you can go back to these resources to see how much of it feels "obvious" now, and you can remind yourself that at the beginning it all seemed so confusing, reminding you of the progress you've made!
+
+Reading thru the crash course, and/or watching the video, is all you need to do on your first day.
 
 Everyday after this will combine step 2 and 3 together.
 
 ## Step 2: The textbook to use - [javascript.info](https://javascript.info/)
 
-Not that long ago, when the internet was much slower and harder to access, the preferred way to learn programming was thru books. Books are still a great way to learn, but at the time they were the main way to learn to code.
-
-There are a million stories of someone finding one big textbook, reading it cover to cover, and that being how they got started.
-
-The problem with physical books is that they can quickly become outdated, as well as the cost and access issues associated with physical goods.
+It used to be that the best way to learn how to program was from reading a big textbook. And while books are still great, they can quickly become outdated, not to mention the cost and access issues associated with any physical good.
 
 But I've found the best JavaScript textbook available online: [javascript.info](https://javascript.info/)
 
-It's an extremely clear, well written walk thru of all the different concepts in JavaScript, broken up into around 160 different sections, or about 700 pages if it was printed out on paper.
+It's an extremely clear, well written walk thru of all the different concepts in JavaScript, broken up into about 160 different sections, or about 700 pages if it was printed out on paper.
 
-Just start with the [first section](https://javascript.info/intro), read it and keep going.
+It's also frequently updated, so you don't have to worry about errors or information being out of date.
 
-But because a big part of learning to code is also implementing code to see the results and getting used to the concepts, a textbook like this isn't the whole picture. You also need to be able to practice.
+Just start with the [first section](https://javascript.info/intro), read it and continue from there.
+
+But because a big part of learning to code is also implementing code to see the results and getting used to the concepts, you'll need more than just a textbook. You also need to be able to practice.
 
 ## Step 3: Practice problems to solve - [Edabit](https://edabit.com/challenges/javascript)
 
-You can learn with just a textbook, but it can be kinda hard.
+Just reading about programming isn't enough to learn, you also need to practice writing code yourself.
 
-When I learned math in school, it wasn't just reading a chapter and assuming that I knew the material. It was doing practice problems, often very similar ones over and over until the material became second nature.
+There are a bunch of websites that will give you coding problems to solve, which is a great way to learn and improve your programming abilities, especially when coupled with a great textbook like javascript.info.
 
-Along the same line, there are lots of websites that give you coding practice, by presenting to you different types of coding challenges and problems to solve.
-
-The problem is that most of these sites are designed for folks who already know how to code, and want to sharpen their skills, but are quite challenging for those new to coding.
+But the problem with most coding problem websites is that they're designed for folks who already know how to code, not those just getting started.
 
 This is where [Edabit](https://edabit.com/challenges/javascript) comes in.
 
-It's designed with beginners in mind, starting off with simple problems and progressively getting harder. On top of that, each problem has a resources tab that can help point you in the right direction of how to solve a problem, without giving too much away.
+It's free to setup an account, and it's designed with beginners in mind, starting off with simple problems and progressively getting harder.
 
-The only downsides with Edabit are that the site isn't the easiest to use on a smaller screen device, and the site can be a little slow, but it's the best option I've seen out there for good coding challenges for beginners.
+On top of that, each problem has a Resources tab which can point you to the right documentation for solving a problem, which will help you learn and in turn reinforces these new concepts to you.
+
+(don't forget to check out the Solutions tab after you solve a problem, to see how others have solved it, and learn from their approaches)
+
+The only downsides with Edabit are that it isn't the easiest to use on a smaller screen device, and the site can be a little slow to load, but it's still the best option for those looking to practice JavaScript.
+
+Between javascript.info and Edabit, you have two of the best resources to learn JavaScript. Now we just have to put them together.
 
 ## Step 4: Alternate between javascript.info and Edabit
 
-Once you get past your first day of the crash course articles, you'll be faced with the question of where to start first: javascript.info or Edabit?
+Once you get past your first day of the crash course article, you'll be faced with the question of where to start first: javascript.info or Edabit?
 
 The answer is to alternate between them.
 
@@ -99,57 +110,53 @@ My suggestion is to use this ratio, in this order:
 - One javascript.info section
 - Three Edabit challenges
 
-The only real downside to this approach is that the two resources don't perfectly line up. They were made independently from each other, and while they both feel like the missing half for the other, some problems on Edabit around things like regex and recursion aren't covered until much later in javascript.info.
+The only real downside to this approach is that the two resources don't perfectly line up. Since they were made independently from each other, some problems on Edabit, such as those concerning regex and recursion, aren't covered until much later on javascript.info.
 
 It's also okay to skip problems on Edabit until you learn those topics, or skip ahead in javascript.info so you can tackle them in Edabit.
 
-But roughly this ratio will work pretty well for you.
+But this approach should still work very well for you.
 
 ## Step 5: Do a little bit every day
 
-With something like this, it's easy to get overwhelmed. Around 160 sections to read, and almost 1000 problems to work on. It can feel like a lot!
+With 160 sections to read, and almost 1000 practice problems to solve, it's easy to feel overwhelmed!
 
-The easiest approach I've found for tackling a big task like this is simple: do a little bit, every single day.
+The best approach I've found for tackling a big task like this is quite simple: do a little bit per day, and do it each and every day.
 
-It doesn't have to be a lot, you can just read one section and complete three problems and then stop. But don't take any days off.
+Even if all you do is read one section and complete three practice problems per day, as long as you do this every single day, you'll make real progress.
 
-Keep track of your progress of doing a little work each day, using a habit tracking app like Habit List or Habit Bull, or even a physical calendar, and after a while it'll feel like something you'll just do, not something you'll dread.
+Focus more on making sure you keep a daily streak going, that's much more important than how much work you put in per day, especially when you're starting out.
 
-And the funny thing about habits like this is that once you build a small habit, it doesn't seem like a big deal to do a little more work on top of that, helping you to get more done and learn more faster.
+After a while of keeping track of this streak of coding each day, it'll feel like something you just do, making it easier to do a little more work each day.
 
 ## Step 6: Tips for success
 
-Here are a few helpful tips that will go a long way in aiding you on this path.
+Here are some helpful tips that will aid you on this path.
 
 ### A: Stick to the plan
 
-This might sound obvious, since I just spent this entire article outlining a plan that will help you learn JavaScript, but it's so easy to get distracted.
+This might seem obvious, since I just outlined a plan that will help you learn JavaScript, but it's easy to get distracted.
 
-Before I had figured out the few best resources to use, all outlined here, it was so easy to jump from one resource to the next, and after enough time of doing this it feels like treading water: you're using a lot of energy but making very little progress.
+Before I had this plan, it was hard not to just jump from one resource to the next, and after a while I realized I was using a lot of energy without making much progress.
 
-That's not to say that this plan is all you'll ever need. In fact, I can guarantee you that you'll want to learn more than what this plan gives you.
+So start here, stick with this plan, and keep moving forward until you know all the content.
 
-But start here, stick to it, and keep moving forward
+### B: Repeat any section or content as needed
 
-### B: Repeat anything as needed
+There are going to be times when you come across a concept, read the material on it, do practice problems, and still feel like you don't "get it."
 
-There are going to be points in learning where you come across a concept, read the material, do practice problems, and still feel like you don't "get it."
+Too many people assume you only need to be exposed to a concept once to fully grasp it.
 
-Too many people who make learn to code materials assume a "one and done" approach will work for everyone.
+It rarely works that way.
 
-It doesn't.
+I can't count the number of times where I didn't understand something right away after being taught it.
 
-In fact, there have been many times when I learned about a concept and didn't get it at first.
+But there's a simple solution to this issue: go over the material again and again until you understand it.
 
-The solution?
+It won't matter in the grand scheme of things if it takes you two times, five times, or 20 times of rereading a section in javascript.info to understand it. What matters most is sticking with it, reviewing content until you understand it.
 
-Repeat that section until you understand it.
+It never feels like something you can brag about, but to be honest I think most people struggle more with learning than they might admit, and the few how do learn things the first time, every time, are the exceptions, not the rule.
 
-At the end of the day, it doesn't matter if you have to reread a section in javascript.info two times or 20 times. What matters is sticking with it, repeating it as you need to until you understand the concept.
-
-This never leads to any real bragging rights, but to be honest I think most people actually struggle more with learning than the admit, and the few who do learn things the first time every time are the exceptions, not the rule.
-
-I'm here to give you permission to reread that section, or go over that practice problem, again and again until you feel you understand it!
+So I'm here to give you permission to reread that section, or go over that practice problem, again and again until you get it!
 
 ### C: Commit to learning in public
 
@@ -157,106 +164,111 @@ A little bit of outside pressure can go a long way in helping you stick to your 
 
 This is something that more formalized learning environments provide quite well. You're expected to learn something, and there's social pressure to keep up.
 
-When it's just you, it can be hard to stick with whatever schedule you set.
+When you're learning on your own, even with a guide like this, it can be hard to stick to whatever schedule you set.
 
-A great option for committing to learn in a more public way is to start with the [100 days of code challenge](https://www.100daysofcode.com/).
+A great option for learning in public is to do the [100 days of code challenge](https://www.100daysofcode.com/).
 
-The rules are pretty simple:
+The rules are simple:
 
-- Go on your Twitter account (or setup a Twitter account if you don't already have one)
 - Work on learning to code for an hour a day
 - Each day, tweet about your progress and what you did with the #100DaysOfCode hashtag
 
-You don't have to do a hour a day, you can do more or less, but the point is to commit in public to doing some amount each and every day.
+You don't have to do an hour a day, you can do more or less, but the point is to commit in public to doing some amount each and every day.
 
-Use this post as your guide, sticking with the read one section, solve three practice problems model for what you need to do.
+Use this post as your guide for what you need to do each day, then tweet about what you got done in your day.
 
-Then tweet about what you accomplished each day.
-
-Be sure to check out the official [100 days of code Twitter account](https://twitter.com/_100DaysOfCode) to see how others are using this approach to stick with learning to code.
+Be sure to read [Why You Should Do #100DaysOfCode](https://dev.to/thecaitcode/why-you-should-do-100daysofcode-202o) by [Caitlyn Greffly](https://twitter.com/thecaitcode) for a little more information on this approach and the potential benefits of it.
 
 ### D: Alter this plan if you have a different approach
 
-I want to give you the best starting point possible to learn JavaScript, but that doesn't mean that my approach is the best one for you.
+I want to give you the best possible start point to learn JavaScript, to get rid of all the distractions and help you focus on what is worth spending time on, but that doesn't mean that my approach will always be the best one for you.
 
-Feel free to alter this plan if you have a sense of something that would work better for you.
+If you have a sense of something that would work better for you, then alter this plan to fit your approach.
 
-Like Edabit, but have a different resource that outlines JavaScript that you'd like to use instead of javascript.info? Use that one instead!
+Maybe you have a different resource you'd like to switch in for one I suggested, or you'd like to change the ratio of reading to challenges. As long as you've put thought into it, and you're being careful not to just make changes for change sake, then I say go for it!
 
-Like javascript.info, but have a different coding challenge site you'd rather use? Go for it, use that one!
+I want you to read this post and take these ideas seriously, but of course you should do what works best for you.
 
-Feel you should do more challenges for each section you read? Make that change!
+### E: This is a great way to learn JavaScript, but it's not the only way
 
-I want you to read this article and take the ideas I put here seriously, but of course you should do what works best for you, and if you'd like to make a change, make it!
+I want to be clear that, while I consider this the best way to learn JavaScript, it's not the only way, and I don't inherently consider those other approaches wrong.
 
-## Step 7: Why this guide is incomplete
+There are some very heated debates about what you should start learning first, and why one approach is better than others.
 
-With just the simple approach of using a crash course at the beginning (and going back to it to see how much you've learned since you've started), then alternating between one learning resource and one practice resource, you'll go very far in terms of learning JavaScript.
+One of the most heated debates is around learning a language, like JS, first, vs learning a framework, like Reach or Vue, first.
 
-But I wouldn't say this is complete.
+I think you should learn JavaScript first, then learn a framework that's built on top of JavaScript next, but the last thing I'd want to do is make someone feel bad if they'd enjoy the other approach more.
 
-_There's a third part, which is working on projects._
+I want this to be a great starting point, but always use your own judgement, think for yourself, and avoid anyone who belittles you for choosing something that you know is right for you that they don't care for.
 
-Building things, even if fairly simple, will help you solidify not only your JavaScript fundamentals, but it could also be argued that in building projects, you'll understand more deeply how all the JavaScript pieces fit together.
+### F: JavaScript is something that everyone can learn
 
-One reason that I recommend saving projects to the end, after you've worked thru the approach outlined here, is that you can gain so much from this approach before you even start a project, but also that for building projects you'll probably need something more like a laptop or desktop computer, and that they become much much harder to complete on a smart phone, which might be all you have access to.
+What I've outlined here is for anyone who wants to learn JavaScript. No exceptions.
 
-But a great resource for projects to get started with once you've gone thru the process outlined here is [JavaScript 30](https://javascript30.com), which is a free JavaScript project resource, giving you 30 different projects to work on to really solidify your JavaScript skills.
+There seems to be less gatekeeping around this as time goes on, but there are still plenty of folks who treat tech as something that only certain people can learn, or worse yet, only people who fit certain demographics or personality types are capable of learning.
 
-The only thing extra that you'll need for those projects is knowledge of both HTML and CSS, which isn't covered in this article.
+Let me be clear on this, people who believe this, repeat this, or say this, are one of two things: stupid or lying.
 
-For a great free article to learn both, I'd go to the great [HTML and CSS tutorials from Interneting Is Hard](https://internetingishard.com/html-and-css/). It covers pretty much all you'll need to know to start working on JavaScript projects more fully.
+They might buy into stereotypes, or maybe they're just in denial, but everything outlined here is learnable by anyone who wants to put in the time and effort.
 
-## Step 8: The best way, but not the only way
+Not everyone can learn this within a month, or learn every concept on first exposure.
 
-This approach is what I consider the best way to learn JavaScript, but I want to be clear it is far from the only way.
+But with enough time and work, you can learn JavaScript. Just put in the work to learning it.
 
-There are lots of very heated debates about what to start learning first, and why one approach is better than others.
+## Step 7: Keep going over the material until it's all done
 
-Clearly I believe in this approach, but I don't believe that other approaches are wrong, or that if you don't follow this one you'll be in trouble.
+The plan is pretty simple: cover all the basics in a crash course resource, then go thru both javascript.info and Edabit, alternating between the two, for every one section of javascript.info you read, answer three Edabit challenges.
 
-A common debate is learning a programming language first vs learning a framework first.
+Now that you know that, keep going thru all the material until you have it all covered.
 
-I'm very much in the camp of learning JavaScript before a JS framework or library, such as Reach or Vue, but there are lots of folks who learned a framework, library, or something else first, and then went back to learn more about the underlying language, and that approach can work great too!
+You might need to read sections in javascript.info multiple times before you move to the next section. Or maybe you want to read thru it all once, then cover it again and again until it feels like you know it all.
 
-The last thing I'd want to be responsible for is making someone feel bad or discouraged because they wanted to learn another way, read this, and then felt they had to take this approach when they didn't want to.
+But stick with it till it gets to that point.
 
-This fits into the point above of "Alter this plan if you have a different approach," and the reason I'm adding to that idea is to reassure you that there isn't one right way, even when I think my approach is the best
+Because these two resources weren't meant to be used together, there's a good chance that you'll finish the javascript.info content before you finish all the Edabit challenges.
 
-## Step 9: This is for everyone
+That's okay. If it gets to that point, just focus on finishing all the remaining Edabit challenges.
 
-The point I'm about to make is becoming less of an issue, but it's still worth making.
+They'll get harder as you answer more of them, but that's okay, it's great practice to solidify the JavaScript skills you've learned from javascript.info.
 
-What I've outlined here is for everyone who wants to learn JavaScript. No exceptions.
+(and if you get discouraged, go back to the crash course resources to see how much of that content is now obvious to you, you'll be amazed at how far you've come!)
 
-There seems to be less and less gatekeeping around this as time goes on, but there are still plenty of folks who treat learning tech as something that only certain people can learn, or worse yet, only people who fit certain demographics are capable of learning.
+Stick with it, then move to the next step.
 
-Let me be clear. People who believe this, repeat this, or say this, are one of two things: stupid or lying.
+## Step 8: Next steps
 
-That's all there is to it.
+With just this simple approach of going thru crash course resources at the beginning, then alternating between a learning resource and a JavaScript challenge resource, you'll get very far in terms of learning JavaScript.
 
-They might buy into dangerous stereotypes, or maybe they're just lying to themselves, but everything outlined here is learnable by anyone who wants to put the time and effort in.
+It's a very simple but very large approach to learning JavaScript.
 
-Now not everyone could learn all of this in one week, or learn every concept on first exposure to it. But with enough time and work, you can learn JavaScript.
+So what are the next steps?
 
-Just need to put the work in to learning it.
+Start building projects with JavaScript.
 
-## Step 10: Get to work!
+Building things, even if fairly simple projects, will help solidify not only your newly found JavaScript skills, but will help deepen your understanding of how all the JS pieces fit together.
+
+There are two big reasons I recommend saving projects till after, and not incorporating them earlier, are:
+
+- You'll need other skills, mainly HTML and CSS, before you can really start building things (I have a good recommendation for learning HTML and CSS below).
+- You'll probably need a desktop or laptop computer, as it will be hard to work on projects if all you have is a tablet or smartphone, and I didn't want that restriction to hinder you with the plan I outlined above.
+
+For learning HTML and CSS, I'd go to the great [HTML and CSS tutorials from Interneting Is Hard](https://internetingishard.com/html-and-css/).
+
+For projects, go with [JavaScript 30](https://javascript30.com)
+
+Both are free (JavaScript 30 requires you to sign up), and that is where, in that order, you should spend your time going forward.
+
+## Step 9: Get to work!
 
 This article should give you the straightforward plan you need to get started.
 
-**In the simplest terms:**
+**To Summarize:**
 
 - Read the [MDN crash course doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and/or watch the [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - Then for every section you read of [javascript.info](https://javascript.info/)
 - Do three challenges on [Edabit](https://edabit.com/challenges/javascript)
-- Repeat all of this until you feel solid on the language
+- Keep working thru each section of javascript.info until you feel familiar with it all, and keep working until you've solved all the Edabit challenges.
 
-Then after that:
-
-- Learn HTML and CSS from [Interneting Is Hard](https://internetingishard.com/html-and-css/)
-- Work on projects from [JavaScript 30](https://javascript30.com)
-
-That's all there is to it, so get to work!
+That's all there is to it, so get to work! :)
 
 <!-- also add??? - https://github.com/ryanmcdermott/clean-code-javascript -->
