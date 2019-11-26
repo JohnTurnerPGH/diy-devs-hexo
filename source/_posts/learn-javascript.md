@@ -272,3 +272,5 @@ This article should give you the straightforward plan you need to get started.
 That's all there is to it, so get to work! :)
 
 <!-- also add??? - https://github.com/ryanmcdermott/clean-code-javascript -->
+
+<!-- Another note -->
