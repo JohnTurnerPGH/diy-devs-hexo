@@ -4,6 +4,25 @@ date: 2019-10-26 20:00:13
 metaNoIndex: true
 ---
 
+Learn JavaScript, huzzah!!!
+
+How does the <code>inline code</code> look on here?
+
+Quick test of adding code below
+
+<pre><code class="language-js">let exampeVar = 'how does this look?';
+
+let anotherExample = 'here is a very long string to test to see how the whole word wrap stuff adjusts to different size windows';
+
+function fancyFeast(num) {
+  return num * 5;
+}
+
+console.log(fancyFeast(12));
+</code></pre>
+
+Think this is all going okay after all! :)
+
 **Here is where I'll eventually put stuff about myself, but in the meantime enjoy this Bob Ross Lorem Ipsum!**
 
 We'll make some big ol' huge mountains! There's too many complicated things in our life already. All you're worried about is this nice outside shape. Always follow the angles. Don't just cover it all up -- leave these spots!
