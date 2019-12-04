@@ -4,7 +4,7 @@ date: 2019-11-24 22:06:33
 tags:
 comment: false
 description: Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money.
-share_cover: /img/share-img/learn-javascript-cover-image-plain-2.png
+share_cover: /img/share-img/learn-javascript-cover-image-plain-3.png
 ---
 
 _Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money. (15 minute read)_
