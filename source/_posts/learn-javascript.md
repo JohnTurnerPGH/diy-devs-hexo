@@ -7,7 +7,7 @@ description: Want to learn JavaScript? Here is a simple, direct way to learn JS,
 share_cover: /img/share-img/learn-javascript-cover-image-plain-4.png
 ---
 
-_Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money. (15 minute read)_
+_Want to learn JavaScript? Here is a simple, direct way to learn JS, without having to spend any money. (16 minute read)_
 
 **Who this is for:** Anyone new to coding who wants to learn JavaScript, those who already know how to code and want to specifically learn JS, and people who want to learn to code but don't know where to start.
 
