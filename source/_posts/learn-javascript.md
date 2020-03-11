@@ -69,6 +69,32 @@ Reading thru the crash course, and/or watching the video, is all you need to do 
 
 Everyday after this will be combining step 2 and 3 together.
 
+## Step 1.5 (optional): [Paid video course from Colt Steele](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+
+_NOTE: This is a recommended but optional step. If you have around \$20, have high speed internet, and also have a large screen device (so anything bigger than a smartphone), I'd recommend doing this. If you lack all three of those things, skip below to Step 2._
+
+Colt Steele is a very good teacher, and recently he put out a great JavaScript Course, called [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) on Udemy.
+
+It's about 50 hours worth of videos, and covers the bulk of what you'd need to learn about JavaScript.
+
+There are a number of other paid JavaScript courses out there, but the majority have at least one of two issues: they are either incomplete in covering enough JavaScript content, or they are very outdated.
+
+This seems to be the one JavaScript course I've found that covers enough JavaScript content, and is also up to date.
+
+For those who prefer video lectures over written learning, I'd do this course first before following Step 2, or even as a replacement to the resource in Step 2.
+
+(with that being said, the resource in Step 2 covers a lot more content in more detail, but I also think this course is enough for most people)
+
+Even though I structured this guide to include only free resources, I think it's good enough to be added despite costing money.
+
+But again, only use this course if you can afford it, have fast enough internet to stream video, and have a large enough screen to be able to see examples from it.
+
+While the list price is $199.99 for the course, Udemy frequently runs discounts and deals, so you can get most courses for under $20 (I ended up paying \$9.99 when I bought this one)
+
+If you setup or log into a Udemy account and it's not being offered at a discounted rate, you can click the link in the description of this [promo video for this course from Colt himself](https://www.youtube.com/watch?v=P0ie62cTDY0) to get a discount.
+
+Otherwise continue onto Step 2.
+
 ## Step 2: The textbook to use - [javascript.info](https://javascript.info/)
 
 It used to be that the best way to learn how to program was from reading a big, single textbook. And while books are still great, they quickly become outdated, not to mention the cost and access issues associated with any physical good.
@@ -278,6 +304,7 @@ This article should give you the straightforward plan you need to get started.
 **To Summarize:**
 
 - Read the [MDN crash course doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and/or watch the [JavaScript Crash Course For Beginners video](https://www.youtube.com/watch?v=hdI2bqOjy3c).
+- _(optional step) buy the [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) on Udemy from Colt Steele._
 - Then for every section you read of [javascript.info](https://javascript.info/).
 - Do three challenges on [Edabit](https://edabit.com/challenges/javascript).
 - Keep reading and rereading each section of javascript.info until you feel familiar with it all, and keep working until you've solved all the Edabit challenges.
